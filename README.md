@@ -1,6 +1,7 @@
 # YouTubeClone(https://chandan-mourya-youtubeclone.netlify.app/)
 
 YouTube Clone using HTML, CSS, and Javascript
+![image](https://user-images.githubusercontent.com/43124877/180589721-8adc05e8-7cde-4c9e-860d-178e331dbf74.png)
 
 Chandan Mourya-YouTube-Clone
 Building a clone of famous websites like YouTube.com is really challenging and a good exercise for aspiring front-end developers. Here the challenge is to build out this landing page and get it looking as close to the design as possible.
@@ -13,6 +14,7 @@ index.html — contains the HTML layout which defines the element structure that
 image folder — contains images used in our project.
 style.css — contains CSS code for styling. Using CSS we can style the different portions to make them more visually appealing.
 script.js — contains Javascript code.
+![Screenshot (1156)](https://user-images.githubusercontent.com/43124877/180589736-12bc745a-0cbc-4a78-bdfc-93f88307324d.png)
 
 HTML Layout
 Open VSCode and create the basic HTML structure in an index.html file by ! and then pressing tab. Give the title as ‘YouTube’. Link style.css and script.js to the created HTML file.
@@ -31,6 +33,7 @@ Use the API to search for videos that match specific search terms, topics, locat
 
 
 YouTube API
+![Screenshot (1154)](https://user-images.githubusercontent.com/43124877/180589742-4a1f0fa8-98ad-4d2a-9070-e9e46713785f.png)
 
 Before you start
 You need a Google Account to access the Google API Console, request an API key, and register your application.
